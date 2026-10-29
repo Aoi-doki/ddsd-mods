@@ -1,0 +1,34 @@
+{
+ "_comment": "DDSD Mod Hub catalog, read by the launcher (Mods > Browse). Managed by the review bot (tools/modhub). Entries with 'download' are hosted here and install in one click; entries with only 'page' link to the mod's own site.",
+ "version": 1,
+ "mods": [
+  {
+   "id": "monika-after-story",
+   "name": "Monika After Story",
+   "author": "The Monika After Story team",
+   "description": "Spend time with Monika after the story ends: talks, little games, music and lots of new moments. Cozy, long-running and open source.",
+   "page": "https://www.monikaafterstory.com/"
+  },
+  {
+   "id": "doki-doki-do-you-lift-club",
+   "name": "Doki Doki Do You Lift Club!",
+   "author": "CykaDev",
+   "description": "A comedy parody where you help the club members get ripped. Lots of memes (and some Russian swearing). Rated 12+ by its team.",
+   "page": "https://www.cykadev.com/ddlc"
+  },
+  {
+   "id": "doki-doki-rainclouds",
+   "name": "Doki Doki! RainClouds",
+   "author": "CykaDev",
+   "description": "DDLC's first act retold from Sayori's point of view, with new before- and after-school scenes. Heads up: it has heavy themes (16+).",
+   "page": "https://www.cykadev.com/ddrc"
+  },
+  {
+   "id": "doki-doki-new-eyes",
+   "name": "Doki Doki! New Eyes",
+   "author": "CykaDev",
+   "description": "Replay the club through Yuri's eyes: new scenes, backstory and 10+ hours of story. Heads up: it has heavy themes (16+).",
+   "page": "https://www.cykadev.com/ddne"
+  }
+ ]
+}
