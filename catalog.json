@@ -29,6 +29,19 @@
    "author": "CykaDev",
    "description": "Replay the club through Yuri's eyes: new scenes, backstory and 10+ hours of story. Heads up: it has heavy themes (16+).",
    "page": "https://www.cykadev.com/ddne"
+  },
+  {
+   "id": "hub-test-delete-me-2972f7",
+   "name": "Hub Test (delete me)",
+   "author": "Aoi",
+   "description": "A tiny test mod to check the Mod Hub works end to end. Press Reject or Accept, then Remove.",
+   "version": "0.1",
+   "license": "CC BY 4.0",
+   "download": "https://github.com/Aoi-doki/ddsd-mods/releases/download/mods/hub-test-delete-me-2972f7-0-1.zip",
+   "asset_id": 689845781,
+   "size": 372,
+   "sha256": "1bb3ead624ee9b1f9ce20224c4afd79b1d857493ce460c265dc5244d7fce19d0",
+   "added": "2026-10-29"
   }
  ]
 }
