@@ -29,6 +29,41 @@
    "author": "CykaDev",
    "description": "Replay the club through Yuri's eyes: new scenes, backstory and 10+ hours of story. Heads up: it has heavy themes (16+).",
    "page": "https://www.cykadev.com/ddne"
+  },
+  {
+   "id": "doki-doki-blue-skies",
+   "name": "Doki Doki Blue Skies",
+   "author": "Blue Dissonance Development",
+   "description": "DDLC rebuilt as a proper romance visual novel, with full routes for Sayori, Yuri and Natsuki. Heads up: it deals with mental health, including depression and suicide.",
+   "page": "https://blueskiesmod.club/"
+  },
+  {
+   "id": "salvation-remake",
+   "name": "Salvation Remake",
+   "author": "12gizguy6",
+   "description": "A very long Sayori story: you wake up the night before the festival and get a second chance to save her, and to help the others too. Friendship over romance. Heads up: it starts from a suicide attempt.",
+   "page": "https://dokimods.me/mods/salvation-remake/"
+  },
+  {
+   "id": "doki-doki-salvation",
+   "name": "Doki Doki Salvation",
+   "author": "12gizguy6",
+   "description": "The original Salvation (2018): stop the tragedy at the end of Act 1 and deal with what comes after. Heads up: suicide is part of the story.",
+   "page": "https://dokimods.me/mods/salvation"
+  },
+  {
+   "id": "fallen-angel",
+   "name": "Fallen Angel",
+   "author": "Noa_AT",
+   "description": "A Yuri romance where Monika isn't self-aware: get close to Yuri and help her through anxiety and insecurity. Warm, then very sad. Heads up: self-harm.",
+   "page": "https://dokimods.me/mods/fallen-angel/"
+  },
+  {
+   "id": "a-slice-of-life",
+   "name": "A Slice of Life",
+   "author": "kmsrocks1 and ogsnakebone",
+   "description": "A short romance/comedy retelling where you get another chance to save the club. A lighter one to start with.",
+   "page": "https://dokimods.me/mods/a-slice-of-life/"
   }
  ]
 }
