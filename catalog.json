@@ -17,20 +17,6 @@
    "asset_id": 781202790
   },
   {
-   "id": "salvation-remake",
-   "name": "Salvation Remake",
-   "author": "12gizguy6",
-   "description": "A very long Sayori story: you wake up the night before the festival and get a second chance to save her, and to help the others too. Friendship over romance. Heads up: it starts from a suicide attempt.",
-   "version": "1.2",
-   "license": "All rights reserved (free to play)",
-   "size": 722451040,
-   "sha256": "2c765405cd95342eb23ef96be862c68f00c4d98cd86e9575a4565e3be3d73be1",
-   "added": "2026-11-23",
-   "page": "https://dokimods.me/mods/salvation-remake/",
-   "download": "https://github.com/Aoi-doki/ddsd-mods/releases/download/mods/salvation-remake-1-2.zip",
-   "asset_id": 781222402
-  },
-  {
    "id": "fallen-angel",
    "name": "Fallen Angel",
    "author": "Noa_AT",
