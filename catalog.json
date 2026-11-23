@@ -42,7 +42,8 @@
    "added": "2026-11-23",
    "page": "https://dokimods.me/mods/fallen-angel/",
    "download": "https://github.com/Aoi-doki/ddsd-mods/releases/download/mods/fallen-angel-ddfa-fix.zip",
-   "asset_id": 781247440
+   "asset_id": 781247440,
+   "keep_ddlc_scripts": true
   }
  ]
 }
