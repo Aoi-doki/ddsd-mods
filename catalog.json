@@ -29,6 +29,20 @@
    "page": "https://dokimods.me/mods/salvation-remake/",
    "download": "https://github.com/Aoi-doki/ddsd-mods/releases/download/mods/salvation-remake-1-2.zip",
    "asset_id": 781222402
+  },
+  {
+   "id": "fallen-angel",
+   "name": "Fallen Angel",
+   "author": "Noa_AT",
+   "description": "A Yuri romance where Monika isn't self-aware: get close to Yuri and help her through anxiety and insecurity. Warm, then very sad. Heads up: self-harm.",
+   "version": "DDFA fix",
+   "license": "All rights reserved (free to play)",
+   "size": 326765110,
+   "sha256": "ab89d10a31a5b62fca9c2bc4ffa5218863262fab122ad70a3db655f9218c301f",
+   "added": "2026-11-23",
+   "page": "https://dokimods.me/mods/fallen-angel/",
+   "download": "https://github.com/Aoi-doki/ddsd-mods/releases/download/mods/fallen-angel-ddfa-fix.zip",
+   "asset_id": 781247440
   }
  ]
 }
