@@ -1,5 +1,20 @@
 {
  "_comment": "DDSD Mod Hub catalog, read by the launcher (Mods > Browse). Managed by the review bot (tools/modhub). Entries with 'download' are hosted here and install in one click; entries with only 'page' link to the mod's own site.",
  "version": 1,
- "mods": []
+ "mods": [
+  {
+   "id": "doki-doki-blue-skies",
+   "name": "Doki Doki Blue Skies",
+   "author": "Blue Dissonance Development",
+   "description": "DDLC rebuilt as a proper romance visual novel, with full routes for Sayori, Yuri and Natsuki. Heads up: it deals with mental health, including depression and suicide.",
+   "version": "1.0.6",
+   "license": "All rights reserved (free to play)",
+   "size": 601695034,
+   "sha256": "4dce965184ff8b0d5be543d66a4805b4fb5a7c86d9b8988da3975137af5e4334",
+   "added": "2026-11-23",
+   "page": "https://blueskiesmod.club/",
+   "download": "https://github.com/Aoi-doki/ddsd-mods/releases/download/mods/doki-doki-blue-skies-1-0-6.zip",
+   "asset_id": 781202790
+  }
+ ]
 }
